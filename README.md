@@ -37,7 +37,7 @@ and then you can use pip to install the following dependencies within the CroSP 
 
 2. Further analysis and drawing:  Tutorial/analyze_DLPFC.ipynb
 
-  Links to 151673 result files that can be used in the tutorial：
+  Links to 151674 result files that can be used in the tutorial：
 ## <a name="Citation"></a>Citation
 ## <a name="contact"></a>Contact
 Feixiong Cheng chengf@ccf.org Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic, Cleveland, OH 44195, USA<br> 
