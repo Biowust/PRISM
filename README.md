@@ -11,14 +11,14 @@ PRISM: Accurate Spatial Domain Prediction by Multi-View Integration of Cellular 
 
 ## <a name="Installation"></a>Installation
 **Environment requirements**:  
-CroSP requires Python 3.9.x and Pytorch.   
+PRISM requires Python 3.9.x and Pytorch.   
 For example, we suggest to install the dependencies in a conda environment.  
 
 ```
 conda create -n PRISM
 conda activate PRISM
 ```
-and then you can use pip to install the following dependencies within the CroSP environment.
+and then you can use pip to install the following dependencies within the PRISM environment.
 - python==3.9.18
 - torch==1.13.0+cu116 
 - torch_scatter==2.1.1
@@ -31,7 +31,7 @@ and then you can use pip to install the following dependencies within the CroSP 
 - rpy2==3.4.1
 - R==4.0.3
 ## <a name="Usage"></a>Usage 
-- #### CroSP on DLPFC from 10x Visium.
+- #### PRISM on DLPFC from 10x Visium.
 
 1. python analyze_DLPFC.py 
 
